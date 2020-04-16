@@ -1,0 +1,1 @@
+package enity.proxy;public interface USB {    void useing();}

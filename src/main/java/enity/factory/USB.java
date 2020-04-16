@@ -1,0 +1,1 @@
+package enity.factory;//产品接口public interface USB  {     //接口可以充电     void userUsb();}

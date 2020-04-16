@@ -1,0 +1,1 @@
+package enity.proxy;public class AppUsb implements USB {    @Override    public void useing() {        System.out.println("appusb被使用了");    }}

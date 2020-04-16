@@ -1,0 +1,1 @@
+package enity;public class SingHoder {    private  SingHoder(){    }    public static class SingHoderInner{    private static SingHoder instance=new SingHoder();    }    public static SingHoder getInstance(){        return SingHoderInner.instance;    }}

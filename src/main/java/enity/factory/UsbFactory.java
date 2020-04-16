@@ -1,0 +1,1 @@
+package enity.factory;public class UsbFactory implements UsbInterface {    @Override    public USB creatUSB() {        return null;    }}

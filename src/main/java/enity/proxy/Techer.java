@@ -1,0 +1,1 @@
+package enity.proxy;public class Techer implements USB {    @Override    public void useing() {        System.out.println("老师好");    }}

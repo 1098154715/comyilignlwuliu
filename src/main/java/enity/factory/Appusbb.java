@@ -1,0 +1,1 @@
+package enity.factory;public class Appusbb implements USB {    @Override    public void userUsb() {        System.out.println("生产了苹果usb");    }}

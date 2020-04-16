@@ -1,0 +1,1 @@
+package enity.proxy;public class Student implements Person {    @Override    public void study() {        System.out.println("学生 在学习");    }}

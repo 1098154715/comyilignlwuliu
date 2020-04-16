@@ -1,0 +1,1 @@
+package enity.factory;//工厂接口public interface UsbInterface {    USB creatUSB();}
